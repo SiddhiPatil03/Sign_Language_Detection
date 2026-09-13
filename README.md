@@ -191,18 +191,3 @@ Spoken Output
 
 This can provide a more accessible communication solution for people who use sign language.
 
-## Author
-
-Siddhi Patil
-
-Final Year Data Science Student
-
-Areas of Interest:
-- MERN Stack Development
-- Machine Learning
-- Computer Vision
-- Artificial Intelligence
-
-## License
-
-This project is developed for educational and academic purposes.
