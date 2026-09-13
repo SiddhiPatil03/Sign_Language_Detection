@@ -243,7 +243,20 @@ This can help create more accessible communication solutions for people who use 
 
 ---
 
+## 👩‍💻 Author
 
+**Siddhi Patil**
+
+Final Year Data Science Student
+
+### Areas of Interest
+
+* MERN Stack Development
+* Machine Learning
+* Computer Vision
+* Artificial Intelligence
+
+---
 
 ## ⭐ Project Highlights
 
@@ -260,6 +273,9 @@ This can help create more accessible communication solutions for people who use 
 
 ---
 
+## 📜 License
+
+This project is developed for educational and academic purposes.
 
 ```
 
